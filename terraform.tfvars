@@ -18,8 +18,7 @@ node_groups = {
 }
 
 eks_addons = [
-  "aws-ebs-csi-driver",
-  "aws-load-balancer-controller"
+  "aws-ebs-csi-driver"
 ]
 
 eks_addon_versions = {}
